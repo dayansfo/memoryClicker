@@ -1,6 +1,6 @@
 {
-  "name": "memory",
-  "homepage": "https://dayansfo.github.io/memory-Game/",
+  "name": "memoryClicker",
+  "homepage": "https://dayansfo.github.io/memoryClicker/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
